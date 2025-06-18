@@ -1,1 +1,1 @@
-BEACON FAQ
+BEACON FAQ and resources
